@@ -4,7 +4,7 @@
   "description": "a react wrapper for croppie",
   "author": "dasithkuruppu",
   "license": "MIT",
-  "repository": "dasithkuruppu/croppiereactwrap",
+  "repository": "dasithkuruppu/croppiereactwrapper",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
